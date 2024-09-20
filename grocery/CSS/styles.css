@@ -1,0 +1,25 @@
+nav {
+  background-color: rgb(30, 58, 138);
+}
+nav div h2 {
+  font-size: 15px;
+  font-weight: 900;
+  font-family: sans-serif;
+}
+
+body > :nth-child(3) {
+  background-color: rgb(219, 219, 219);
+}
+body > :nth-child(3) > :nth-child(1) {
+  background-color: orange;
+  color: black;
+  font-weight: 600;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+body > :nth-child(3) > :nth-child(1) > :nth-child(1) {
+  color: red;
+}
+body > :nth-child(3) > :nth-child(1) > :nth-child(2) {
+  color: black;
+}/*# sourceMappingURL=styles.css.map */
