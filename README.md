@@ -1,6 +1,4 @@
-<h2 align="center">Diseño Figma: <a href="">Maquetado en Figma</a></h2>
-
-<h2 align="center">Página: <a href=""></a><span>Aún no disponible</span></h2>
+![image](https://github.com/user-attachments/assets/f2b17ac3-7a15-4261-8345-cb07eb066a3c)
 
 <h2 >Tecnologías usadas👨🏻‍💻</h2>
 <br>
